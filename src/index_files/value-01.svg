@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="-349 101 100 100" style="enable-background:new -349 101 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.15;}
+	.st1{fill:none;stroke:#82DCFF;stroke-width:0.5;stroke-miterlimit:10;}
+	.st2{fill:url(#SVGID_1_);}
+	.st3{opacity:0.25;}
+	.st4{fill:none;stroke:#82DCFF;stroke-miterlimit:10;}
+</style>
+<g id="Layer_4" class="st0">
+	<polyline class="st1" points="-295.8,114.1 -300.8,152.7 -337.4,148.9 	"/>
+	<polyline class="st1" points="-326.2,174.6 -300.8,152.7 -286.6,170.1 -279.9,187.9 	"/>
+	<line class="st1" x1="-286.6" y1="170.1" x2="-261.4" y2="155.6"/>
+</g>
+<g id="Layer_5">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-348" y1="150" x2="-249" y2="150">
+		<stop  offset="0" style="stop-color:#3C7DBD"/>
+		<stop  offset="0.5096" style="stop-color:#82DCFF"/>
+		<stop  offset="1" style="stop-color:#3C7DBD"/>
+	</linearGradient>
+	<polygon class="st2" points="-275.7,149.6 -275.7,147.7 -276.7,147.7 -276.7,149.6 -279.7,149.6 -279.7,142.6 -280.7,142.6 
+		-280.7,149.6 -283.7,149.6 -283.7,139.1 -284.7,139.1 -284.7,149.6 -287.7,149.6 -287.7,141.7 -288.7,141.7 -288.7,149.6 
+		-291.7,149.6 -291.7,146.5 -292.7,146.5 -292.7,149.6 -296.3,149.6 -296.3,147.7 -301.3,147.7 -301.3,149.6 -304.9,149.6 
+		-305.9,149.6 -348,149.6 -348,150.6 -317.9,150.6 -317.9,153.4 -316.9,153.4 -316.9,150.6 -313.9,150.6 -313.9,156.8 -312.9,156.8 
+		-312.9,150.6 -309.9,150.6 -309.9,160.9 -308.9,160.9 -308.9,150.6 -305.9,150.6 -305.9,154.9 -304.9,154.9 -304.9,150.6 
+		-301.3,150.6 -301.3,152.6 -296.3,152.6 -296.3,150.6 -249,150.6 -249,149.6 	"/>
+</g>
+<g id="Layer_3" class="st3">
+	<polygon class="st4" points="-261.4,155.6 -295.8,114.1 -328.6,129 -337.4,148.9 -326.2,174.6 -279.9,187.9 -263.3,177 	"/>
+	<polyline class="st4" points="-295.8,114.1 -293.3,135.4 -316.8,144.2 -328.6,129 	"/>
+	<polyline class="st4" points="-337.4,148.9 -316.8,144.2 -310.8,169 -326.2,174.6 	"/>
+	<polyline class="st4" points="-310.8,169 -289,179.6 -279.9,187.9 	"/>
+	<polyline class="st4" points="-289,179.6 -273.3,170.1 -263.3,177 	"/>
+	<line class="st4" x1="-273.3" y1="170.1" x2="-293.3" y2="135.4"/>
+</g>
+</svg>

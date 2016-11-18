@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="170px" height="170px" viewBox="0 0 170 170" style="enable-background:new 0 0 170 170;" xml:space="preserve">
+<style type="text/css">
+	.collision-1-st0{fill:#1f242d;}
+	.collision-1-st1{fill:#2b323a;}
+	.collision-1-st2{fill:#3c424b;}
+	.collision-1-st3{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.collision-1-st4{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;stroke-dasharray:21.1532,5.9229;}
+	.collision-1-st5{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;stroke-dasharray:27.4812,7.6947;}
+	.collision-1-st6{cursor:pointer;}
+
+  #main_fragment {
+    -webkit-animation: main-bop 5s cubic-bezier(0.5, 0, 0.5, 1) 0s infinite;
+            animation: main-bop 5s cubic-bezier(0.5, 0, 0.5, 1) 0s infinite;
+  }
+  @-webkit-keyframes main-bop {
+    0% { -webkit-transform: translateY(0); transform: translateY(0); }
+    50% { -webkit-transform: translateY(10px); transform: translateY(10px); }
+    100% { -webkit-transform: translateY(0); transform: translateY(0); }
+  }
+  @keyframes main-bop {
+    0% { -webkit-transform: translateY(0); transform: translateY(0); }
+    50% { -webkit-transform: translateY(10px); transform: translateY(10px); }
+    100% { -webkit-transform: translateY(0); transform: translateY(0); }
+  }
+
+  #fragmentA {
+    -webkit-animation: fragment-a-bop 5s cubic-bezier(0.5, 0, 0.5, 1) 0s infinite;
+            animation: fragment-a-bop 5s cubic-bezier(0.5, 0, 0.5, 1) 0s infinite;
+  }
+  @-webkit-keyframes fragment-a-bop {
+    0% { -webkit-transform: translateY(-5px); transform: translateY(-5px); }
+    50% { -webkit-transform: translateY(20px); transform: translateY(20px); }
+    100% { -webkit-transform: translateY(-5px); transform: translateY(-5px); }
+  }
+  @keyframes fragment-a-bop {
+    0% { -webkit-transform: translateY(-5px); transform: translateY(-5px); }
+    50% { -webkit-transform: translateY(20px); transform: translateY(20px); }
+    100% { -webkit-transform: translateY(-5px); transform: translateY(-5px); }
+  }
+
+  #fragmentB {
+    -webkit-animation: fragment-b-bop 5s cubic-bezier(0.5, 0, 0.5, 1) 0s infinite;
+            animation: fragment-b-bop 5s cubic-bezier(0.5, 0, 0.5, 1) 0s infinite;
+  }
+  @-webkit-keyframes fragment-b-bop {
+    0% { -webkit-transform: translateY(-5px); transform: translateY(-5px); }
+    50% { -webkit-transform: translateY(15px); transform: translateY(15px); }
+    100% { -webkit-transform: translateY(-5px); transform: translateY(-5px); }
+  }
+  @keyframes fragment-b-bop {
+    0% { -webkit-transform: translateY(-5px); transform: translateY(-5px); }
+    50% { -webkit-transform: translateY(15px); transform: translateY(15px); }
+    100% { -webkit-transform: translateY(-5px); transform: translateY(-5px); }
+  }
+</style>
+<g id="fragments">
+	<g id="main_fragment">
+		<polygon class="collision-1-st0" points="51.6,47.8 99.4,26.3 85,93.9 30.2,112.9"/>
+		<polygon class="collision-1-st1" points="129.8,76.3 99.4,26.3 85,93.9 127.3,133.6"/>
+		<polygon class="collision-1-st2" points="30.2,112.9 67.4,142.6 127.3,133.6 85,93.9"/>
+	</g>
+	<g id="fragmentA">
+		<polygon class="collision-1-st1" points="45.8,18.7 29.1,46.7 31.1,57"/>
+		<polygon class="collision-1-st0" points="29.1,46.7 19.8,46.4 14.2,33.7 45.8,18.7"/>
+		<polygon class="collision-1-st2" points="19.8,46.4 13.5,60.8 31.1,57 29.2,46.7"/>
+		<polygon class="collision-1-st1" points="14.2,33.7 19.8,46.4 13.5,60.8"/>
+	</g>
+	<g id="fragmentB">
+		<polygon class="collision-1-st2" points="131.4,50.1 141,74.4 157.2,50.2 145,42.8"/>
+		<polygon class="collision-1-st0" points="113.7,39.7 131.4,50.1 145,42.8 137.3,5"/>
+		<polygon class="collision-1-st1" points="145,42.8 157.2,50.2 157.2,38 137.3,5"/>
+		<polygon class="collision-1-st1" points="131.4,50.1 113.7,39.7 141,74.4"/>
+	</g>
+</g>
+<rect id="invisible_1" class="collision-1-st6" fill="#FFFFFF" opacity="0" width="170" height="170"/>
+</svg>

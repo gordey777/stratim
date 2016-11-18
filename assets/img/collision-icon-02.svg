@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="170px" height="170px" viewBox="0 0 170 170" style="enable-background:new 0 0 170 170;" xml:space="preserve">
+<style type="text/css">
+	.Coll02-st0{fill:#1f242d;}
+	.Coll02-st1{fill:#2b323a;}
+	.Coll02-st2{fill:#3c424b;}
+	.Coll02-st3, .Coll02-st4 {fill:none;stroke:#FFFFFF;stroke-miterlimit:10;stroke-dasharray:20 7;}
+	.Coll02-st6{opacity:0;fill:#FFFFFF;}
+
+  .Coll02-st0 {
+    animation: opp-side-0 5s cubic-bezier(0.5, 0, 0.5, 1) 0s infinite;
+  }
+  @keyframes opp-side-0 {
+    0% { transform: translate(-5px, -5px); }
+    50% { transform: translate(0, 0); }
+    100% { transform: translate(-5px, -5px); }
+  }
+
+  .Coll02-st1 {
+    animation: opp-side-1 5s cubic-bezier(0.5, 0, 0.5, 1) 0s infinite;
+  }
+  @keyframes opp-side-1 {
+    0% { transform: translate(5px, -3px); }
+    50% { transform: translate(0, 0); }
+    100% { transform: translate(5px, -3px); }
+  }
+
+  .Coll02-st2 {
+    animation: opp-side-2 5s cubic-bezier(0.5, 0, 0.5, 1) 0s infinite;
+  }
+  @keyframes opp-side-2 {
+    0% { transform: translate(-3px, 5px); }
+    50% { transform: translate(0, 0); }
+    100% { transform: translate(-3px, 5px); }
+  }
+
+  .Coll02-st3 {
+    animation: opp-side-3 1s linear 0s infinite;
+  }
+  @keyframes opp-side-3 {
+    0% { stroke-dashoffset: -27; }
+    100% { stroke-dashoffset: 0;  }
+  }
+
+  .Coll02-st4 {
+    animation: opp-side-4 1s linear 0s infinite;
+  }
+  @keyframes opp-side-4 {
+    0% { stroke-dashoffset: 27; }
+    100% { stroke-dashoffset: 0;  }
+  }
+
+  #opprtunities_lines {
+    animation: opprtunities-lines 5s cubic-bezier(0.5, 0, 0.5, 1) 0s infinite;
+  }
+  @keyframes opprtunities-lines {
+    0% { opacity: 1; }
+    50% { opacity: 0.3; }
+    100% { opacity: 1; }
+  }
+
+</style>
+<g id="opportunities">
+	<g id="opprtunities_sides">
+		<polygon class="Coll02-st0" points="47,43.5 94.8,22 80.4,89.6 25.6,108.6"></polygon>
+		<polygon class="Coll02-st1" points="136.3,74.1 105.8,24.1 91.4,91.7 133.7,131.3"></polygon>
+		<polygon class="Coll02-st2" points="28.9,119.2 66.1,148.9 126,139.9 83.7,100.2"></polygon>
+	</g>
+	<g id="opprtunities_lines">
+		<line class="Coll02-st3" x1="30.2" y1="112.9" x2="85" y2="93.9"></line>
+		<line class="Coll02-st3" x1="99.1" y1="27.5" x2="85" y2="93.9"></line>
+		<line class="Coll02-st4" x1="85" y1="93.9" x2="127.3" y2="133.6"></line>
+
+		<aanimate
+	    	attributeName="opacity"
+			from="0"
+			to="0"
+			values="1;0.3;1"
+			dur="5s"
+			begin="0"
+			repeatCount="indefinite"
+			calcMode="spline"
+			keySplines="0.5 0 0.5 1;0.5 0 0.5 1"
+		/>
+	</g>
+</g>
+</svg>
