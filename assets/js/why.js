@@ -1,0 +1,1 @@
+$(function(){$(".button, .global-nav, #fp-nav").addClass("inverted");$(".nav-home").hide();$("#fullpage").fullpage({sectionSelector:".fullpage-section",navigation:false,scrollOverflow:true,scrollOverflowOptions:{scrollbars:false},loopHorizontal:false,normalScrollElements:".normal-scroll",touchSensitivity:15,bigSectionsDestination:"top"});window.fullpage=$.fn.fullpage});
